@@ -1,4 +1,5 @@
-use Modern::Perl;
+use strict;
+use warnings;
 use utf8;
 use Kavorka;
 use Regexp::Grammars;
